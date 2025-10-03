@@ -6,6 +6,9 @@
 
 ---
 
+> **Note:**  
+> These are my personal notes from the course. If you want to access the full course, please visit [The Complete JavaScript Course 2025: From Zero to Expert! on Udemy](https://www.udemy.com/course/the-complete-javascript-course/).
+
 ## 📚 About This Repository
 
 This repository contains comprehensive, well-organized notes and code examples from "The Complete JavaScript Course 2025: From Zero to Expert!". It was created to help learners and developers master JavaScript fundamentals, advanced concepts, and practical techniques, all in one place.
